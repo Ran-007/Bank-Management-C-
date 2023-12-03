@@ -1,0 +1,60 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.out
+
+# Executables
+*.exe
+*.out
+
+# Generated files
+Makefile
+CMakeLists.txt.user
+CMakeCache.txt
+cmake-build-*/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Compiled binaries
+/bin/
+/build/
+
+# Dependency directories
+/lib/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*~
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.dbmdl
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Generated files by Windows
+*.manifest
+*.res
+*.ilk
+*.pdb
+*.pch
+*.obj
+*.exe.manifest
+
+# macOS
+.DS_Store
+
+# Windows image file caches
+ehthumbs.db
+Thumbs.db
